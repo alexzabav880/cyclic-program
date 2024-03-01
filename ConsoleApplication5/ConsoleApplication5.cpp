@@ -6,7 +6,7 @@ int main()
     while (true)
     {
 
-        std::cout << "Иди нахуй";
+        std::cout << "Hello world";
         
 
 
